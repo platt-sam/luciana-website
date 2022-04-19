@@ -1,0 +1,29 @@
+html {
+    background-color: snow;
+    margin: auto;
+    text-align: center;
+}
+
+main {
+    margin: auto;
+    width: 75%;
+}
+
+h1 {
+    color: purple;
+    font-family: 'Square Peg';
+    font-size: 64pt;
+    font-style: italic;
+    margin: 0;
+}
+
+p {
+    color: #008000;
+    font-family: 'Poppins';
+    font-size: 16pt;
+    font-weight: bold;
+    line-height: 24pt;
+    margin: auto;
+    margin-bottom: 24pt;
+    width: 80%;
+}
