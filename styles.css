@@ -12,20 +12,24 @@ main {
 }
 
 h1 {
-    color: #008800;
+    color: violet;
     font-family: 'Square Peg';
     font-size: 64pt;
     font-style: italic;
-    margin: 0;
+    background-color: red;
+    padding: 0pt;
+    line-height: 32pt;
+    margin: 0pt, 32pt;
 }
 
 p {
-    color: purple;
+    color: red;
     font-family: 'Poppins';
     font-size: 16pt;
     font-weight: bold;
     line-height: 24pt;
     margin: auto;
     margin-bottom: 24pt;
+    text-shadow: 2px 1px violet;
     width: 80%;
 }
